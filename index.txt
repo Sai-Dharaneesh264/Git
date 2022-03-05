@@ -4,3 +4,4 @@ third line
 fourth line
 
 added new line to index
+added second new line to index
